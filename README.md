@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alirezarameshki
-- 👀 I’m interested in python
+- 👀 I’m interested in Ai
 - 🌱 I’m currently learning python
 
 <!---
